@@ -1,0 +1,5 @@
+100 Goeckel 24.98
+200 Bearcat 345.67
+300 Jones 0.00
+400 Wick -42.16
+500 Everest 224.62
